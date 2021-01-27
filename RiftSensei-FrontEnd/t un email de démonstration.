@@ -1,0 +1,42 @@
+[33mcommit beb6fc03d363ee8d37c7f53b6bd2800494f4c5f9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 54eedd8 2a238df
+Author: lebiscuithd <72382518+lebiscuithd@users.noreply.github.com>
+Date:   Fri Dec 4 15:22:30 2020 +0100
+
+    Merge branch 'main' of github.com:xavierfrancoisepitech/Dream_Team into main
+
+[33mcommit 54eedd839bcaa472f2f448bfb21dbaca1db8061a[m
+Author: lebiscuithd <72382518+lebiscuithd@users.noreply.github.com>
+Date:   Fri Dec 4 15:21:20 2020 +0100
+
+    feat:auth-francois
+
+[33mcommit 2a238df219724421fb59988038c8bd1fad27204e[m
+Author: lebiscuithd <72382518+lebiscuithd@users.noreply.github.com>
+Date:   Fri Dec 4 14:43:43 2020 +0100
+
+    Update README.md
+
+[33mcommit 376538d87e72cfa0012d57f3c575ee4b7a728857[m
+Author: lebiscuithd <72382518+lebiscuithd@users.noreply.github.com>
+Date:   Thu Dec 3 01:04:11 2020 +0100
+
+    feat:xav avatar
+
+[33mcommit 629350a95d2b0c294862c71be2653ab97eaad2bf[m
+Author: lebiscuithd <72382518+lebiscuithd@users.noreply.github.com>
+Date:   Thu Dec 3 00:33:32 2020 +0100
+
+    build:add bootstrap vue
+
+[33mcommit ab7a9a5dcaa2cf82b50d723a7eb74ae5bf737360[m
+Author: lebiscuithd <72382518+lebiscuithd@users.noreply.github.com>
+Date:   Thu Dec 3 00:04:03 2020 +0100
+
+    build:vue cli
+
+[33mcommit 8767cdae306c2f3a0a392387c998e99484eb28b6[m
+Author: xavierfrancoisepitech <72382492+xavierfrancoisepitech@users.noreply.github.com>
+Date:   Mon Nov 30 17:14:53 2020 +0100
+
+    Initial commit
